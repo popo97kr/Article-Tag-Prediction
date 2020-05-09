@@ -1,6 +1,6 @@
 # Article Tag Prediction
 ### Text Classfication (NLP)
-**Objective** : Classify Articles into four categories - World, Sports, Business, and Sci/Tech  
+**Objective** : Classify articles into four categories - World, Sports, Business, and Sci/Tech  
   
 **<Preprocessing & Models used>**   
   1. One-hot-encoding & MLP  
